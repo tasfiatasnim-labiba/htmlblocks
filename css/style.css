@@ -1,0 +1,60 @@
+.header{
+    height: 80px;
+    background-color: burlywood;
+}
+
+.container{
+    overflow: hidden;
+    border: 1px black solid;
+}
+
+.blog{
+    float: left ;
+    width: 70%;
+    height: 150px;
+    background-color:skyblue;
+}
+
+.contact{
+    float: right ;
+    width: 30%;
+    height: 150px;
+    background-color:lightyellow;
+}
+
+.item{
+    float: left;
+    width: 24.75%;
+    height: 150px;
+    border: 2px black solid;
+}
+
+.lightblue{background-color:lightblue;}
+.bisque{background-color: bisque;}
+.cadetblue{background-color:cadetblue;}
+.pink{background-color: pink;}
+.wrapper{overflow: hidden;}
+
+.name{
+	float:left;
+	width:25%;
+	height:200px;
+}
+.lifestyle{
+	background-color: cadetblue;
+}
+.documentary{
+	background-color:chocolate;
+}
+.traditional{
+	background-color:darksalmon;
+}
+.artistic{
+	background-color:beige;
+}
+
+
+.footer{
+    height: 120px;
+    background-color:blanchedalmond;
+}
